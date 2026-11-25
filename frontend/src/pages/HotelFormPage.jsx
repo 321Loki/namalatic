@@ -52,8 +52,8 @@ function HotelFormPage() {
   return (
     <section className="form-page">
       <Helmet>
-        <title>{`${title} | StayFinder`}</title>
-        <meta name="description" content="Add or update hotel details on StayFinder." />
+        <title>{`${title} | NestQuest`}</title>
+        <meta name="description" content="Add or update hotel details on NestQuest." />
         <meta name="robots" content="noindex" />
       </Helmet>
 

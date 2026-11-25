@@ -5,7 +5,7 @@ function Navbar() {
     <header className="navbar">
       <div className="container navbar__inner">
         <Link to="/" className="navbar__brand">
-          Stay<span>Finder</span>
+          Nest<span>Quest</span>
         </Link>
         <nav className="navbar__links">
           <NavLink to="/" end>

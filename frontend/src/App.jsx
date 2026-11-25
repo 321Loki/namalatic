@@ -19,7 +19,7 @@ function App() {
         </Routes>
       </main>
       <footer className="footer">
-        <div className="container">StayFinder &copy; {new Date().getFullYear()}</div>
+        <div className="container">NestQuest &copy; {new Date().getFullYear()}</div>
       </footer>
     </div>
   );

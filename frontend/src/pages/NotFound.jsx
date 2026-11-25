@@ -5,7 +5,7 @@ function NotFound() {
   return (
     <div className="empty">
       <Helmet>
-        <title>Page not found | StayFinder</title>
+        <title>Page not found | NestQuest</title>
         <meta name="robots" content="noindex" />
       </Helmet>
       <h1>404</h1>

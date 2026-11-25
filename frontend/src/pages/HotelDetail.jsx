@@ -41,7 +41,7 @@ function HotelDetail() {
     return (
       <div>
         <Helmet>
-          <title>Hotel not found | StayFinder</title>
+          <title>Hotel not found | NestQuest</title>
         </Helmet>
         <div className="alert alert-error">{error || 'Hotel not found'}</div>
         <Link to="/" className="btn btn-outline">
@@ -57,7 +57,7 @@ function HotelDetail() {
   return (
     <article className="detail">
       <Helmet>
-        <title>{`${hotel.title} | StayFinder`}</title>
+        <title>{`${hotel.title} | NestQuest`}</title>
         <meta name="description" content={metaDescription} />
         <meta property="og:title" content={hotel.title} />
         <meta property="og:description" content={metaDescription} />

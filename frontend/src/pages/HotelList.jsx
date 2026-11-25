@@ -121,12 +121,12 @@ function HotelList() {
   return (
     <section>
       <Helmet>
-        <title>Hotels | StayFinder</title>
+        <title>Hotels | NestQuest</title>
         <meta
           name="description"
-          content="Browse hotels, search by name and filter by price range on StayFinder."
+          content="Browse hotels, search by name and filter by price range on NestQuest."
         />
-        <meta property="og:title" content="Hotels | StayFinder" />
+        <meta property="og:title" content="Hotels | NestQuest" />
       </Helmet>
 
       <div className="page-head">
